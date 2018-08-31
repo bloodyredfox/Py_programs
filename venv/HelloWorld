@@ -1,0 +1,6 @@
+c = 10
+if c in range (3,12,3):
+     print("Hello")
+else:
+     print("World")
+
