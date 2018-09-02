@@ -1,0 +1,4 @@
+f = input("First name: ")
+l = input("Last name: ")
+hello = ("Hello %s %s")
+print(hello %(f,l))
